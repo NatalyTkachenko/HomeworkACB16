@@ -1,4 +1,4 @@
-package week1.Addition;
+package week1.home.Add;
 
 import java.util.Scanner;
 

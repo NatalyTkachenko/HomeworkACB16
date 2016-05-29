@@ -14,11 +14,8 @@ public class Test3 {
 
         if (divrest == 0) {
             System.out.println("Удвоенное значение введенного числа: " + inputnumber * inputnumber);
-        } else if (inputnumber < 7) {
-            System.out.println("Не делится нацело :'( ");
         } else {
             System.out.println("Не делится нацело :'( ");
         }
     }
-
 }

@@ -1,4 +1,4 @@
-package week1.Addition;
+package week1.home.Add;
 
 import java.util.Scanner;
 
@@ -29,27 +29,14 @@ public class _ad2 {
 
         if(number2 >= 0){
             System.out.println("Второе число в кубе: " + resultpow2);
-        }
-        else if (number2 < 0) {
+        } else if (number2 < 0) {
             System.out.println("Обнуленное число 2 = " + 0);
         }
 
         if(number3 >= 0){
             System.out.println("Третье число в кубе: " + resultpow3);
-        }
-        else if (number2 < 0) {
+        } else if (number2 < 0) {
             System.out.println("Обнуленное число 3 = " + 0);
         }
     }
 }
-        /* if(number2 >= 0){
-            System.out.println("Число в кубе 2: " + number2);
-        }
-             if(number3 > 0) number3 = number3 * number3 * number3;{
-            System.out.println("Число в кубе 3: " + number3);
-        }
-             else(number3 < 0)number3 = 0;{
-                System.out.println("Число 3 обнулено: " + number3);
-            }
-                 }
-             }*/
